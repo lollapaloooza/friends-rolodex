@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/friends-rolodex/static/css/main.b1708f70.chunk.css",
+    "main.js": "/friends-rolodex/static/js/main.75c5b60f.chunk.js",
+    "main.js.map": "/friends-rolodex/static/js/main.75c5b60f.chunk.js.map",
+    "runtime-main.js": "/friends-rolodex/static/js/runtime-main.0de17f05.js",
+    "runtime-main.js.map": "/friends-rolodex/static/js/runtime-main.0de17f05.js.map",
+    "static/js/2.4058bf1b.chunk.js": "/friends-rolodex/static/js/2.4058bf1b.chunk.js",
+    "static/js/2.4058bf1b.chunk.js.map": "/friends-rolodex/static/js/2.4058bf1b.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/friends-rolodex/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/friends-rolodex/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/friends-rolodex/index.html",
+    "static/css/main.b1708f70.chunk.css.map": "/friends-rolodex/static/css/main.b1708f70.chunk.css.map",
+    "static/js/2.4058bf1b.chunk.js.LICENSE.txt": "/friends-rolodex/static/js/2.4058bf1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0de17f05.js",
+    "static/js/2.4058bf1b.chunk.js",
+    "static/css/main.b1708f70.chunk.css",
+    "static/js/main.75c5b60f.chunk.js"
+  ]
+}
